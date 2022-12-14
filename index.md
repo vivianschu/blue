@@ -4,8 +4,7 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The He laboratory applies a variety of genomic, epigenomic experimental and computational approaches to elucidate the functional role of epigenetic regulation in cancer development, progression and drug response, with a special focus on the interplay between epigenetic regulator and noncoding RNA. Combine the experimental and computational expertise, we are in a unique position to make major contributions to both the general understanding of cancer biology and the improvement of epigenetic therapy.
 
 {%
   include link.html
