@@ -70,6 +70,7 @@ Our lab is located on the 11th floor of the Princess Margaret Cancer Research To
 %}
 {:.center}
 
+{% include section.html full=true %}
 {% include banner.html image="images/pmcrt.jpeg" %}
 
 
