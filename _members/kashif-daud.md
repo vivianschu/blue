@@ -9,5 +9,6 @@ aliases:
   - K Daud
 links:
   email: 
-current position: 
 ---
+
+Current Position: 
