@@ -9,5 +9,6 @@ aliases:
   - N Lo
 links:
   email: 
-current position: BSc Student, Western University
 ---
+
+Current Position: BSc Student, Western University
