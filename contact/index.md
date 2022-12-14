@@ -8,7 +8,27 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+We are located on the 11th floor of the Princess Margaret Cancer Research Tower.
+
+{% capture col1 %}
+{%
+  Dr. Housheng (Hansen) He
+  PMCRT 11-305
+  101 College Street
+  Toronto, ON M5G 1L7
+  Phone: (416) 581-7736
+%}
+{% endcapture %}
+{% capture col2 %}
+{%
+  Amelia Navarrete
+  PMCRT 5-351B / 13-701
+  101 College Street
+  Toronto, ON M5G 1L7
+  Phone: (416) 581-7559
+%}
+{% endcapture %}
+{% include two-col.html col1=col1 col2=col2 %}
 
 {%
   include link.html
@@ -33,8 +53,8 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   type="address"
   icon=""
   text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  tooltip="View on Google Maps"
+  link="https://goo.gl/maps/9RdNPdoQpHKBnUYPA"
   style="button"
 %}
 {:.center}
