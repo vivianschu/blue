@@ -9,5 +9,6 @@ aliases:
   - U Sheikh
 links:
   email:
-current position: BSc Student, University of Toronto-Mississauga
 ---
+
+Current Position: BSc Student, University of Toronto-Mississauga
