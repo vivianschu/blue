@@ -9,5 +9,6 @@ aliases:
   - X Zhang
 links:
   email: 
-current position: 
 ---
+
+Current Position:
