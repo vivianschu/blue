@@ -3,6 +3,7 @@ name: Xinpei Ci
 image: images/xinpei-ci.jpg
 description: Postdoctoral Fellow
 role: pdf
+group: current
 aliases:
   - X. Ci
   - X Ci
