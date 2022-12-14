@@ -1,6 +1,1681 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s41467-022-34012-2
+  title: The cell-free DNA methylome captures distinctions between localized and metastatic
+    prostate tumors
+  authors:
+  - Sujun Chen
+  - Jessica Petricca
+  - Wenbin Ye
+  - Jiansheng Guan
+  - Yong Zeng
+  - Nicholas Cheng
+  - Linsey Gong
+  - Shu Yi Shen
+  - Junjie T. Hua
+  - Megan Crumbaker
+  - Michael Fraser
+  - Stanley Liu
+  - Scott V. Bratman
+  - Theodorus van der Kwast
+  - Trevor Pugh
+  - Anthony M. Joshua
+  - Daniel D. De Carvalho
+  - Kim N. Chi
+  - Philip Awadalla
+  - Guoli Ji
+  - Felix Feng
+  - Alexander W. Wyatt
+  - Housheng Hansen He
+  publisher: Nature Communications
+  date: '2022-10-29'
+  link: https://doi.org/grg38f
+  _cache: 2e44c48ec993f5a26c209d7966dbe2de9532b713d31b6aa0e3b01d1f63b2b8b6
+- id: doi:10.1158/0008-5472.CAN-22-1123
+  title: The 5-Hydroxymethylcytosine Landscape of Prostate Cancer
+  authors:
+  - "Martin Sj\xF6str\xF6m"
+  - Shuang G. Zhao
+  - Samuel Levy
+  - Meng Zhang
+  - Yuhong Ning
+  - Raunak Shrestha
+  - Arian Lundberg
+  - Cameron Herberts
+  - Adam Foye
+  - Rahul Aggarwal
+  - Junjie T. Hua
+  - Haolong Li
+  - Anna Bergamaschi
+  - Corinne Maurice-Dror
+  - Ashutosh Maheshwari
+  - Sujun Chen
+  - Sarah W.S. Ng
+  - Wenbin Ye
+  - Jessica Petricca
+  - Michael Fraser
+  - Lisa Chesner
+  - Marc D. Perry
+  - Thaidy Moreno-Rodriguez
+  - William S. Chen
+  - Joshi J. Alumkal
+  - Jonathan Chou
+  - Alicia K. Morgans
+  - Tomasz M. Beer
+  - George V. Thomas
+  - Martin Gleave
+  - Paul Lloyd
+  - Tierney Phillips
+  - Erin McCarthy
+  - Michael C. Haffner
+  - Amina Zoubeidi
+  - Matti Annala
+  - Robert E. Reiter
+  - Matthew B. Rettig
+  - Owen N. Witte
+  - Lawrence Fong
+  - Rohit Bose
+  - Franklin W. Huang
+  - Jianhua Luo
+  - Anders Bjartell
+  - Joshua M. Lang
+  - Nupam P. Mahajan
+  - Primo N. Lara
+  - Christopher P. Evans
+  - Phuoc T. Tran
+  - Edwin M. Posadas
+  - Chuan He
+  - Xiao-Long Cui
+  - Jiaoti Huang
+  - Wilbert Zwart
+  - Luke A. Gilbert
+  - Christopher A. Maher
+  - Paul C. Boutros
+  - Kim N. Chi
+  - Alan Ashworth
+  - Eric J. Small
+  - Housheng H. He
+  - Alexander W. Wyatt
+  - David A. Quigley
+  - Felix Y. Feng
+  publisher: Cancer Research
+  date: '2022-10-17'
+  link: https://doi.org/grg38g
+  _cache: 875c9a1e0d1f366d52bbe11813880a376961c0487f62db9c326871c404c578ee
+- id: doi:10.1073/pnas.2205509119
+  title: CYCLIN K down-regulation induces androgen receptor gene intronic polyadenylation,
+    variant expression and PARP inhibitor vulnerability in castration-resistant prostate
+    cancer
+  authors:
+  - Rui Sun
+  - Ting Wei
+  - Donglin Ding
+  - Jianong Zhang
+  - Sujun Chen
+  - Housheng Hansen He
+  - Liguo Wang
+  - Haojie Huang
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-09-21'
+  link: https://doi.org/grg38h
+  _cache: 226081fd4805d2cba2dea9184f74b877aae8e09c699a1050fb60ca6ba5f5128a
+- id: doi:10.1038/s41385-022-00493-z
+  title: "Neonatal LT\u03B2R signaling is required for the accumulation of eosinophils\
+    \ in the inflamed adult mesenteric lymph node"
+  authors:
+  - Conglei Li
+  - Lesley A. Ward
+  - Albert Nguyen
+  - Evelyn Lam
+  - Dragos Dasoveanu
+  - Musaddeque Ahmed
+  - Kei Haniuda
+  - Matthew B. Buechler
+  - Housheng Hansen He
+  - Burkhard Ludewig
+  - Kelly Marshall McNagny
+  - Jennifer L. Gommerman
+  publisher: Mucosal Immunology
+  date: '2022-02-18'
+  link: https://doi.org/grg38j
+  _cache: 0714bebf6c0dc16adac247124c708a72dd6b5b5ed72ce717dcaeea3eee343782
+- id: doi:10.1016/j.ymthe.2022.01.039
+  title: Exploiting the tumor-suppressive activity of the androgen receptor by CDK4/6
+    inhibition in castration-resistant prostate cancer
+  authors:
+  - Wanting Han
+  - Mingyu Liu
+  - Dong Han
+  - Anthia A. Toure
+  - Muqing Li
+  - Anna Besschetnova
+  - Zifeng Wang
+  - Susan Patalano
+  - Jill A. Macoska
+  - Hung-Ming Lam
+  - Eva Corey
+  - Housheng Hansen He
+  - Shuai Gao
+  - Steven P. Balk
+  - Changmeng Cai
+  publisher: Molecular Therapy
+  date: '2022-04-01'
+  link: https://doi.org/grg38k
+  _cache: 42503ce62e3cfd52043685e8044647081083eced74a36e81f3fe9b904159e537
+- id: doi:10.1016/j.urolonc.2021.08.013
+  title: Subpathologies and genomic classifier for treatment individualization of
+    post-prostatectomy radiotherapy
+  authors:
+  - Matthew Ramotar
+  - Melvin L.K. Chua
+  - Hong Truong
+  - Ali Hosni
+  - Melania Pintilie
+  - Elai Davicioni
+  - Neil E. Fleshner
+  - Adam P. Dicker
+  - Robert G Bristow
+  - Hansen H. He
+  - Theo van der Kwast
+  - Robert B. Den
+  - Alejandro Berlin
+  publisher: 'Urologic Oncology: Seminars and Original Investigations'
+  date: '2022-01-01'
+  link: https://doi.org/grg38m
+  _cache: 2c5760c39723d75922122aaa7e8b67ac63b532afcd6199345d3bc14f12a6afb7
+- id: doi:10.3389/fgene.2022.834413
+  title: The Basis and Promise of Programmable RNA Editing and Modification
+  authors:
+  - Nicholas Lo
+  - Xin Xu
+  - Fraser Soares
+  - Housheng Hansen He
+  publisher: Frontiers in Genetics
+  date: '2022-01-28'
+  link: https://doi.org/grg38n
+  _cache: 015bd781d4f5e641908258db3792451b87788cc3d0b7fa8dcf7e5de96e5ef8d7
+- id: doi:10.1053/j.gastro.2021.12.269
+  title: N6-Methyladenosine Reader YTHDF1 Promotes ARHGEF2 Translation and RhoA Signaling
+    in Colorectal Cancer
+  authors:
+  - Shiyan Wang
+  - Shanshan Gao
+  - Yong Zeng
+  - Lin Zhu
+  - Yulin Mo
+  - Chi Chun Wong
+  - Yi Bao
+  - Peiran Su
+  - Jianning Zhai
+  - Lina Wang
+  - Fraser Soares
+  - Xin Xu
+  - Huarong Chen
+  - Kebria Hezaveh
+  - Xinpei Ci
+  - Aobo He
+  - Tracy McGaha
+  - "Catherine O\u2019Brien"
+  - Robert Rottapel
+  - Wei Kang
+  - Jianfeng Wu
+  - Gang Zheng
+  - Zongwei Cai
+  - Jun Yu
+  - Housheng Hansen He
+  publisher: Gastroenterology
+  date: '2022-04-01'
+  link: https://doi.org/gq78rr
+  _cache: 156796d584df34566142aff62f15b0a5834020546b6099e7312885acdd378246
+- id: doi:10.1038/s41388-021-02135-3
+  title: RB1 loss in castration-resistant prostate cancer confers vulnerability to
+    LSD1 inhibition
+  authors:
+  - Wanting Han
+  - Mingyu Liu
+  - Dong Han
+  - Muqing Li
+  - Anthia A. Toure
+  - Zifeng Wang
+  - Anna Besschetnova
+  - Susan Patalano
+  - Jill A. Macoska
+  - Shuai Gao
+  - Housheng Hansen He
+  - Changmeng Cai
+  publisher: Oncogene
+  date: '2022-01-03'
+  link: https://doi.org/gqrkv3
+  _cache: a138251204c015c0b4d0afb1e41828f77078aa89423d2ec2d242a1b27206893c
+- id: doi:10.1038/s41467-021-27077-y
+  title: Androgen receptor and MYC equilibration centralizes on developmental super-enhancer
+  authors:
+  - Haiyang Guo
+  - Yiming Wu
+  - Mannan Nouri
+  - Sandor Spisak
+  - Joshua W. Russo
+  - Adam G. Sowalsky
+  - Mark M. Pomerantz
+  - Zhao Wei
+  - Keegan Korthauer
+  - Ji-Heui Seo
+  - Liyang Wang
+  - Seiji Arai
+  - Matthew L. Freedman
+  - Housheng Hansen He
+  - Shaoyong Chen
+  - Steven P. Balk
+  publisher: Nature Communications
+  date: '2021-12-15'
+  link: https://doi.org/gn2c6q
+  _cache: ca03ec9d98e2907b7a2b9bf28a89f4c5e5c7b229574356d85f009469615ea5fb
+- id: doi:10.1038/s41467-021-26489-0
+  title: Somatic driver mutation prevalence in 1844 prostate cancers identifies ZNRF3
+    loss as a predictor of metastatic relapse
+  authors:
+  - Michael Fraser
+  - Julie Livingstone
+  - Jeffrey L. Wrana
+  - Antonio Finelli
+  - Housheng Hansen He
+  - Theodorus van der Kwast
+  - Alexandre R. Zlotta
+  - Robert G. Bristow
+  - Paul C. Boutros
+  publisher: Nature Communications
+  date: '2021-10-29'
+  link: https://doi.org/gqpcp2
+  _cache: 81c7ceed9a1ac76507139a17a97d1a676db9330e9d63f1a8b8f62e822011357e
+- id: doi:10.1038/s41388-021-01882-7
+  title: CRISPR screens identify cholesterol biosynthesis as a therapeutic target
+    on stemness and drug resistance of colon cancer
+  authors:
+  - Shanshan Gao
+  - Fraser Soares
+  - Shiyan Wang
+  - Chi Chun Wong
+  - Huarong Chen
+  - Zhenjie Yang
+  - Weixin Liu
+  - Minnie Y. Y. Go
+  - Musaddeque Ahmed
+  - Yong Zeng
+  - "Catherine Adell O\u2019Brien"
+  - Joseph J. Y. Sung
+  - Housheng Hansen He
+  - Jun Yu
+  publisher: Oncogene
+  date: '2021-10-07'
+  link: https://doi.org/grg38p
+  _cache: 866c28072c957cf653bc997519359422b10b0680f72e5123228029aba36b1ce2
+- id: doi:10.1038/s41388-021-01938-8
+  title: ZNF545 loss promotes ribosome biogenesis and protein translation to initiate
+    colorectal tumorigenesis in mice
+  authors:
+  - Shiyan Wang
+  - Chi Chun Wong
+  - Yanquan Zhang
+  - Junzhe Huang
+  - Chuangen Li
+  - Jianning Zhai
+  - Guoping Wang
+  - Hong Wei
+  - Xueji Zhang
+  - Housheng Hansen He
+  - Jun Yu
+  publisher: Oncogene
+  date: '2021-10-06'
+  link: https://doi.org/grg38q
+  _cache: 015fa7036b7c1bc2b1246668273b17e127101124f8d42443e158e76aa60c5d4b
+- id: doi:10.1038/s41467-021-25951-3
+  title: SPOP mutation induces DNA methylation via stabilizing GLP/G9a
+  authors:
+  - Jianong Zhang
+  - Kun Gao
+  - Hongyan Xie
+  - Dejie Wang
+  - Pingzhao Zhang
+  - Ting Wei
+  - Yuqian Yan
+  - Yunqian Pan
+  - Wenbin Ye
+  - Huifen Chen
+  - Qing Shi
+  - Yao Li
+  - Shi-min Zhao
+  - Xiaonan Hou
+  - Saravut J. Weroha
+  - Yuzhuo Wang
+  - Jun Zhang
+  - R. Jeffrey Karnes
+  - Housheng Hansen He
+  - Liguo Wang
+  - Chenji Wang
+  - Haojie Huang
+  publisher: Nature Communications
+  date: '2021-09-29'
+  link: https://doi.org/grg38r
+  _cache: 9a6c294e4139174742c97e402ee90da46e86b4049ba3001a9f991225ae652405
+- id: doi:10.1038/s41418-021-00867-z
+  title: TRIM21 regulates pyroptotic cell death by promoting Gasdermin D oligomerization
+  authors:
+  - Wenqing Gao
+  - Yuanyuan Li
+  - Xuehe Liu
+  - Sen Wang
+  - Pucheng Mei
+  - Zijun Chen
+  - Kewei Liu
+  - Suhua Li
+  - Xue-Wei Xu
+  - Jianhua Gan
+  - Jiaxue Wu
+  - Chaoneng Ji
+  - Chen Ding
+  - Xing Liu
+  - Yuping Lai
+  - Housheng Hansen He
+  - Judy Lieberman
+  - Hao Wu
+  - Xiangjun Chen
+  - Jixi Li
+  publisher: Cell Death &amp; Differentiation
+  date: '2021-09-11'
+  link: https://doi.org/gqhkbz
+  _cache: a7763802eac0d43b1fff38ea9a5b5e6f860f1f438e8973966e032a2f0675a55b
+- id: doi:10.1038/s41556-021-00743-5
+  title: An androgen receptor switch underlies lineage infidelity in treatment-resistant
+    prostate cancer
+  authors:
+  - Alastair Davies
+  - Shaghayegh Nouruzi
+  - Dwaipayan Ganguli
+  - Takeshi Namekawa
+  - Daksh Thaper
+  - Simon Linder
+  - "Fatih Karao\u011Flano\u011Flu"
+  - Meltem E. Omur
+  - Soojin Kim
+  - Maxim Kobelev
+  - Sahil Kumar
+  - Olena Sivak
+  - Chiara Bostock
+  - Jennifer Bishop
+  - Marlous Hoogstraat
+  - Amina Talal
+  - Suzan Stelloo
+  - Henk van der Poel
+  - Andries M. Bergman
+  - Musaddeque Ahmed
+  - Ladan Fazli
+  - Haojie Huang
+  - Wayne Tilley
+  - David Goodrich
+  - Felix Y. Feng
+  - Martin Gleave
+  - Housheng Hansen He
+  - Faraz Hach
+  - Wilbert Zwart
+  - Himisha Beltran
+  - Luke Selth
+  - Amina Zoubeidi
+  publisher: Nature Cell Biology
+  date: '2021-09-01'
+  link: https://doi.org/gmq7bz
+  _cache: 0f2f80784a7b8b5b3759b7cbf9b3d04ce07a16050ac2fdbda35facf43b240097
+- id: doi:10.1158/1078-0432.CCR-20-4027
+  title: Combined EZH2 Inhibition and IKAROS Degradation Leads to Enhanced Antitumor
+    Activity in Diffuse Large B-cell Lymphoma
+  authors:
+  - Kit I. Tong
+  - Sharon Yoon
+  - Keren Isaev
+  - Mehran Bakhtiari
+  - Tracy Lackraj
+  - Michael Y. He
+  - Jesse Joynt
+  - Anjali Silva
+  - Maria C. Xu
+  - "Gilbert G. Priv\xE9"
+  - Housheng Hansen He
+  - Rodger E. Tiedemann
+  - Elizabeth A. Chavez
+  - Lauren C. Chong
+  - Merrill Boyle
+  - David W. Scott
+  - Christian Steidl
+  - Robert Kridel
+  publisher: Clinical Cancer Research
+  date: '2021-06-24'
+  link: https://doi.org/gpgfqq
+  _cache: 4fa5f54d26f000c0267b5453216027585e8f706aa259cbcad376edfa3351bf94
+- id: doi:10.7554/eLife.59654
+  title: HNRNPM controls circRNA biogenesis and splicing fidelity to sustain cancer
+    cell fitness
+  authors:
+  - Jessica SY Ho
+  - Federico Di Tullio
+  - Megan Schwarz
+  - Diana Low
+  - Danny Incarnato
+  - Florence Gay
+  - Tommaso Tabaglio
+  - JingXian Zhang
+  - Heike Wollmann
+  - Leilei Chen
+  - Omer An
+  - Tim Hon Man Chan
+  - Alexander Hall Hickman
+  - Simin Zheng
+  - Vladimir Roudko
+  - Sujun Chen
+  - Alcida Karz
+  - Musaddeque Ahmed
+  - Housheng Hansen He
+  - Benjamin D Greenbaum
+  - Salvatore Oliviero
+  - Michela Serresi
+  - Gaetano Gargiulo
+  - Karen M Mann
+  - Eva Hernando
+  - David Mulholland
+  - Ivan Marazzi
+  - Dave Keng Boon Wee
+  - Ernesto Guccione
+  publisher: eLife
+  date: '2021-06-02'
+  link: https://doi.org/gnzmfg
+  _cache: c5850ad1b378eda9028c427b7333d4460f77638e9d3b6135681515d56adbef16
+- id: doi:10.1002/hep.31856
+  title: Hepatic Fibroblast Growth Factor 21 Is Involved in Mediating Functions of
+    Liraglutide in Mice With Dietary Challenge
+  authors:
+  - Dinghui Liu
+  - Juan Pang
+  - Weijuan Shao
+  - Jianqiu Gu
+  - Yong Zeng
+  - Housheng Hansen He
+  - Wenhua Ling
+  - Xiaoxian Qian
+  - Tianru Jin
+  publisher: Hepatology
+  date: '2021-08-30'
+  link: https://doi.org/gqcbq8
+  _cache: 88b9207a6b14e9facbd079eff9299ebe5577d5f961aeda70f2248592514f088e
+- id: doi:10.1158/1078-0432.CCR-20-3260
+  title: Emergence of Enzalutamide Resistance in Prostate Cancer is Associated with
+    BCL-2 and IKKB Dependencies
+  authors:
+  - Yi Liang
+  - Sujeeve Jeganathan
+  - Stefano Marastoni
+  - Adam Sharp
+  - Ines Figueiredo
+  - Richard Marcellus
+  - Amanda Mawson
+  - Zvi Shalev
+  - Aleksandra Pesic
+  - Joan Sweet
+  - Haiyang Guo
+  - David Uehling
+  - Bora Gurel
+  - Antje Neeb
+  - Housheng Hansen He
+  - Bruce Montgomery
+  - Marianne Koritzinsky
+  - Samantha Oakes
+  - Johann S. de Bono
+  - Martin Gleave
+  - Amina Zoubeidi
+  - Bradly G. Wouters
+  - Anthony M. Joshua
+  publisher: Clinical Cancer Research
+  date: '2021-02-04'
+  link: https://doi.org/grg38s
+  _cache: c4eee18cf2880275734dd34ed9ef420e16b5c1f717d437af3aeb4ecf104a0417
+- id: doi:10.1084/jem.20200219
+  title: Uncovering the dosage-dependent roles of <i>Arid1a</i> in gastric tumorigenesis
+    for combinatorial drug therapy
+  authors:
+  - Adrian Kwan Ho Loe
+  - Roshane Francis
+  - Jieun Seo
+  - Lutao Du
+  - Yunshan Wang
+  - Ji-Eun Kim
+  - Shaheed W. Hakim
+  - Jung-Eun Kim
+  - Housheng Hansen He
+  - Haiyang Guo
+  - Tae-Hee Kim
+  publisher: Journal of Experimental Medicine
+  date: '2021-04-05'
+  link: https://doi.org/gpf3g9
+  _cache: 83d53036556b2331fff60adacc4b9b54e73f8caf05e5c885efbfedcf9c35ad35
+- id: doi:10.1038/s43018-021-00185-w
+  title: "EZH2 inhibition activates a dsRNA\u2013STING\u2013interferon stress axis\
+    \ that potentiates response to PD-1 checkpoint blockade in prostate cancer"
+  authors:
+  - Katherine L. Morel
+  - Anjali V. Sheahan
+  - Deborah L. Burkhart
+  - Sylvan C. Baca
+  - Nadia Boufaied
+  - Yin Liu
+  - Xintao Qiu
+  - "Israel Ca\xF1adas"
+  - Kevin Roehle
+  - Max Heckler
+  - Carla Calagua
+  - Huihui Ye
+  - Constantia Pantelidou
+  - Phillip Galbo
+  - Sukanya Panja
+  - Antonina Mitrofanova
+  - Scott Wilkinson
+  - Nichelle C. Whitlock
+  - Shana Y. Trostel
+  - Anis A. Hamid
+  - Adam S. Kibel
+  - David A. Barbie
+  - Atish D. Choudhury
+  - Mark M. Pomerantz
+  - Christopher J. Sweeney
+  - Henry W. Long
+  - David J. Einstein
+  - Geoffrey I. Shapiro
+  - Stephanie K. Dougan
+  - Adam G. Sowalsky
+  - Housheng Hansen He
+  - Matthew L. Freedman
+  - Steven P. Balk
+  - Massimo Loda
+  - "David P. Labb\xE9"
+  - Brian M. Olson
+  - Leigh Ellis
+  publisher: Nature Cancer
+  date: '2021-03-22'
+  link: https://doi.org/gq9v68
+  _cache: cc5baf231420462830fd3c07c0feec5d35d1138db755595156972fed407797a9
+- id: doi:10.1016/j.cell.2020.11.018
+  title: Colorectal Cancer Cells Enter a Diapause-like DTP State to Survive Chemotherapy
+  authors:
+  - Sumaiyah K. Rehman
+  - Jennifer Haynes
+  - Evelyne Collignon
+  - Kevin R. Brown
+  - Yadong Wang
+  - Allison M.L. Nixon
+  - Jeffrey P. Bruce
+  - Jeffrey A. Wintersinger
+  - Arvind Singh Mer
+  - Edwyn B.L. Lo
+  - Cherry Leung
+  - Evelyne Lima-Fernandes
+  - Nicholas M. Pedley
+  - Fraser Soares
+  - Sophie McGibbon
+  - Housheng Hansen He
+  - Aaron Pollet
+  - Trevor J. Pugh
+  - Benjamin Haibe-Kains
+  - Quaid Morris
+  - Miguel Ramalho-Santos
+  - Sidhartha Goyal
+  - Jason Moffat
+  - "Catherine A. O\u2019Brien"
+  publisher: Cell
+  date: '2021-01-01'
+  link: https://doi.org/gmbd
+  _cache: 95d7716db5d5bcaac5f53c229a51f7aadc96173313e023d266defe55c1295391
+- id: doi:10.1182/blood.2019004108
+  title: CRISPR screen identifies genes that sensitize AML cells to double-negative
+    T-cell therapy
+  authors:
+  - Fraser Soares
+  - Branson Chen
+  - Jong Bok Lee
+  - Musaddeque Ahmed
+  - Dalam Ly
+  - Enoch Tin
+  - Hyeonjeong Kang
+  - Yong Zeng
+  - Nayeema Akhtar
+  - Mark D. Minden
+  - Housheng Hansen He
+  - Li Zhang
+  publisher: Blood
+  date: '2021-04-22'
+  link: https://doi.org/gn7m72
+  _cache: 691b1661b4b82bc0a3e0e47a399362b649db431d2465ffad6d500e8769378c50
+- id: doi:10.1038/s41467-021-21867-0
+  title: CRISPRi screens reveal a DNA methylation-mediated 3D genome dependent causal
+    mechanism in prostate cancer
+  authors:
+  - Musaddeque Ahmed
+  - Fraser Soares
+  - Ji-Han Xia
+  - Yue Yang
+  - Jing Li
+  - Haiyang Guo
+  - Peiran Su
+  - Yijun Tian
+  - Hyung Joo Lee
+  - Miranda Wang
+  - Nayeema Akhtar
+  - Kathleen E. Houlahan
+  - Almudena Bosch
+  - Stanley Zhou
+  - Parisa Mazrooei
+  - Junjie T. Hua
+  - Sujun Chen
+  - Jessica Petricca
+  - Yong Zeng
+  - Alastair Davies
+  - Michael Fraser
+  - David A. Quigley
+  - Felix Y. Feng
+  - Paul C. Boutros
+  - Mathieu Lupien
+  - Amina Zoubeidi
+  - Liang Wang
+  - Martin J. Walsh
+  - Ting Wang
+  - Shancheng Ren
+  - Gong-Hong Wei
+  - Housheng Hansen He
+  publisher: Nature Communications
+  date: '2021-03-19'
+  link: https://doi.org/gk7scj
+  _cache: 28543b091a6d1569977cf3ae501df3ab3d0eb894fe111ecbe0edec746bb96563
+- id: doi:10.1038/s41556-020-00613-6
+  title: Single-cell analysis reveals transcriptomic remodellings in distinct cell
+    types that contribute to human prostate cancer progression
+  authors:
+  - Sujun Chen
+  - Guanghui Zhu
+  - Yue Yang
+  - Fubo Wang
+  - Yu-Tian Xiao
+  - Na Zhang
+  - Xiaojie Bian
+  - Yasheng Zhu
+  - Yongwei Yu
+  - Fei Liu
+  - Keqin Dong
+  - Javier Mariscal
+  - Yin Liu
+  - Fraser Soares
+  - Helen Loo Yau
+  - Bo Zhang
+  - Weidong Chen
+  - Chao Wang
+  - Dai Chen
+  - Qinghua Guo
+  - Zhengfang Yi
+  - Mingyao Liu
+  - Michael Fraser
+  - Daniel D. De Carvalho
+  - Paul C. Boutros
+  - Dolores Di Vizio
+  - Zhou Jiang
+  - Theodorus van der Kwast
+  - Alejandro Berlin
+  - Song Wu
+  - Jianhua Wang
+  - Housheng Hansen He
+  - Shancheng Ren
+  publisher: Nature Cell Biology
+  date: '2021-01-01'
+  link: https://doi.org/ghsdgb
+  _cache: 119a4df4f5a7fd6965411694cf4cc44ce694d05674dd5b992c469735a447c0a4
+- id: doi:10.1053/j.gastro.2020.11.013
+  title: RNA N6-Methyladenosine Methyltransferase METTL3 Facilitates Colorectal Cancer
+    by Activating the m6A-GLUT1-mTORC1 Axis and Is a Therapeutic Target
+  authors:
+  - Huarong Chen
+  - Shanshan Gao
+  - Weixin Liu
+  - Chi-Chun Wong
+  - Jianfeng Wu
+  - Jingtong Wu
+  - Dabin Liu
+  - Hongyan Gou
+  - Wei Kang
+  - Jianning Zhai
+  - Chuangen Li
+  - Hao Su
+  - Shiyan Wang
+  - Fraser Soares
+  - Jiahuai Han
+  - Housheng Hansen He
+  - Jun Yu
+  publisher: Gastroenterology
+  date: '2021-03-01'
+  link: https://doi.org/gmmgjv
+  _cache: b3245448ca247a4f00e3dda5cfad086a43acb86d555dc15f66e5810b1061890a
+- id: doi:10.1007/s13238-020-00786-8
+  title: 'Pioneer of prostate cancer: past, present and the future of FOXA1'
+  authors:
+  - Mona Teng
+  - Stanley Zhou
+  - Changmeng Cai
+  - Mathieu Lupien
+  - Housheng Hansen He
+  publisher: Protein &amp; Cell
+  date: '2020-09-18'
+  link: https://doi.org/grg38t
+  _cache: 306c35152a678ffcf033eb7f7d6f71d6fe9f0348e5894a0a3f3c4ba47b236f76
+- id: doi:10.1038/s41467-020-18483-9
+  title: Haploinsufficiency of RREB1 causes a Noonan-like RASopathy via epigenetic
+    reprogramming of RAS-MAPK pathway genes
+  authors:
+  - Oliver A. Kent
+  - Manipa Saha
+  - Etienne Coyaud
+  - Helen E. Burston
+  - Napoleon Law
+  - Keith Dadson
+  - Sujun Chen
+  - Estelle M. Laurent
+  - Jonathan St-Germain
+  - Ren X. Sun
+  - Yoshinori Matsumoto
+  - Justin Cowen
+  - Aaryn Montgomery-Song
+  - Kevin R. Brown
+  - Charles Ishak
+  - Jose La Rose
+  - Daniel D. De Carvalho
+  - Housheng Hansen He
+  - Brian Raught
+  - Filio Billia
+  - Peter Kannu
+  - Robert Rottapel
+  publisher: Nature Communications
+  date: '2020-09-16'
+  link: https://doi.org/grg38v
+  _cache: 632f81eeae0613902326c581a6ae3d23db46d06669bc1314a40693410140e07f
+- id: doi:10.1038/s41588-020-0681-7
+  title: Chromatin binding of FOXA1 is promoted by LSD1-mediated demethylation in
+    prostate cancer
+  authors:
+  - Shuai Gao
+  - Sujun Chen
+  - Dong Han
+  - Zifeng Wang
+  - Muqing Li
+  - Wanting Han
+  - Anna Besschetnova
+  - Mingyu Liu
+  - Feng Zhou
+  - David Barrett
+  - My Phu Luong
+  - Jude Owiredu
+  - Yi Liang
+  - Musaddeque Ahmed
+  - Jessica Petricca
+  - Susan Patalano
+  - Jill A. Macoska
+  - Eva Corey
+  - Sen Chen
+  - Steven P. Balk
+  - Housheng Hansen He
+  - Changmeng Cai
+  publisher: Nature Genetics
+  date: '2020-08-31'
+  link: https://doi.org/gmk2dc
+  _cache: 8da4c31e4d86a759fcb856c40ff0b9230379a82409f6d05015b2a2e80b3054a0
+- id: doi:10.1002/advs.202000532
+  title: Structural Basis of Human Helicase DDX21 in RNA Binding, Unwinding, and Antiviral
+    Signal Activation
+  authors:
+  - Zijun Chen
+  - Zhengyang Li
+  - Xiaojian Hu
+  - Feiyan Xie
+  - Siyun Kuang
+  - Bowen Zhan
+  - Wenqing Gao
+  - Xiangjun Chen
+  - Siqi Gao
+  - Yang Li
+  - Yongming Wang
+  - Feng Qian
+  - Chen Ding
+  - Jianhua Gan
+  - Chaoneng Ji
+  - "Xue\u2010Wei Xu"
+  - Zheng Zhou
+  - Jinqing Huang
+  - Housheng Hansen He
+  - Jixi Li
+  publisher: Advanced Science
+  date: '2020-06-08'
+  link: https://doi.org/gmxjc4
+  _cache: abe3de6e784f1e45d1b2c241a2c3ff094254980f75eb72200962eabc60eaae2f
+- id: doi:10.1038/s41588-020-0648-8
+  title: The DNA methylation landscape of advanced prostate cancer
+  authors:
+  - Shuang G. Zhao
+  - William S. Chen
+  - Haolong Li
+  - Adam Foye
+  - Meng Zhang
+  - "Martin Sj\xF6str\xF6m"
+  - Rahul Aggarwal
+  - Denise Playdle
+  - Arnold Liao
+  - Joshi J. Alumkal
+  - Rajdeep Das
+  - Jonathan Chou
+  - Junjie T. Hua
+  - Travis J. Barnard
+  - Adina M. Bailey
+  - Eric D. Chow
+  - Marc D. Perry
+  - Ha X. Dang
+  - Rendong Yang
+  - Ruhollah Moussavi-Baygi
+  - Li Zhang
+  - Mohammed Alshalalfa
+  - S. Laura Chang
+  - Kathleen E. Houlahan
+  - Yu-Jia Shiah
+  - Tomasz M. Beer
+  - George Thomas
+  - Kim N. Chi
+  - Martin Gleave
+  - Amina Zoubeidi
+  - Robert E. Reiter
+  - Matthew B. Rettig
+  - Owen Witte
+  - M. Yvonne Kim
+  - Lawrence Fong
+  - Daniel E. Spratt
+  - Todd M. Morgan
+  - Rohit Bose
+  - Franklin W. Huang
+  - Hui Li
+  - Lisa Chesner
+  - Tanushree Shenoy
+  - Hani Goodarzi
+  - Irfan A. Asangani
+  - Shahneen Sandhu
+  - Joshua M. Lang
+  - Nupam P. Mahajan
+  - Primo N. Lara
+  - Christopher P. Evans
+  - Phillip Febbo
+  - Serafim Batzoglou
+  - Karen E. Knudsen
+  - Housheng H. He
+  - Jiaoti Huang
+  - Wilbert Zwart
+  - Joseph F. Costello
+  - Jianhua Luo
+  - Scott A. Tomlins
+  - Alexander W. Wyatt
+  - Scott M. Dehm
+  - Alan Ashworth
+  - Luke A. Gilbert
+  - Paul C. Boutros
+  - Kyle Farh
+  - Arul M. Chinnaiyan
+  - Christopher A. Maher
+  - Eric J. Small
+  - David A. Quigley
+  - Felix Y. Feng
+  publisher: Nature Genetics
+  date: '2020-07-13'
+  link: https://doi.org/gg6z52
+  _cache: c6b587f7f429b9c51633be6f3173bc1e4a84c88420f25980d6d478feae01fed8
+- id: doi:10.1038/s41422-020-0303-z
+  title: Hypercholesterolemia risk-associated GPR146 is an orphan G-protein coupled
+    receptor that regulates blood cholesterol levels in humans and mice
+  authors:
+  - Fangfang Han
+  - Xiao Liu
+  - Chuanfang Chen
+  - Yinan Liu
+  - Mingkun Du
+  - Yu Zhou
+  - Yong Liu
+  - Bao-Liang Song
+  - Housheng Hansen He
+  - Yan Wang
+  publisher: Cell Research
+  date: '2020-03-20'
+  link: https://doi.org/grg2bj
+  _cache: be226c3943306731689de7ced1e1e5bd2e10938b42d520d0095c256153eee9fa
+- id: doi:10.1038/s41467-020-14318-9
+  title: Noncoding mutations target cis-regulatory elements of the FOXA1 plexus in
+    prostate cancer
+  authors:
+  - Stanley Zhou
+  - James R. Hawley
+  - Fraser Soares
+  - Giacomo Grillo
+  - Mona Teng
+  - Seyed Ali Madani Tonekaboni
+  - Junjie Tony Hua
+  - Ken J. Kron
+  - Parisa Mazrooei
+  - Musaddeque Ahmed
+  - Christopher Arlidge
+  - Hwa Young Yun
+  - Julie Livingstone
+  - Vincent Huang
+  - Takafumi N. Yamaguchi
+  - Shadrielle M. G. Espiritu
+  - Yanyun Zhu
+  - Tesa M. Severson
+  - Alex Murison
+  - Sarina Cameron
+  - Wilbert Zwart
+  - Theodorus van der Kwast
+  - Trevor J. Pugh
+  - Michael Fraser
+  - Paul C. Boutros
+  - Robert G. Bristow
+  - Housheng Hansen He
+  - Mathieu Lupien
+  publisher: Nature Communications
+  date: '2020-01-23'
+  link: https://doi.org/grg38w
+  _cache: 6aaf5549d81216b7f8932a2ad698b77dfe09ea10a1d7c2fb422c5246ad67f52c
+- id: doi:10.1126/sciimmunol.aax1027
+  title: Early-life programming of mesenteric lymph node stromal cell identity by
+    the lymphotoxin pathway regulates adult mucosal immunity
+  authors:
+  - Conglei Li
+  - Evelyn Lam
+  - Christian Perez-Shibayama
+  - Lesley A. Ward
+  - Jianbo Zhang
+  - Dennis Lee
+  - Albert Nguyen
+  - Musaddeque Ahmed
+  - Emma Brownlie
+  - Kirill V. Korneev
+  - Olga Rojas
+  - Tian Sun
+  - William Navarre
+  - Housheng Hansen He
+  - Shan Liao
+  - Alberto Martin
+  - Burkhard Ludewig
+  - Jennifer L. Gommerman
+  publisher: Science Immunology
+  date: '2019-12-06'
+  link: https://doi.org/grg38x
+  _cache: 0b062faa6cd53da4de4d9a144c86949dbdbf3a7f3fab14ca021bbd611686351b
+- id: doi:10.1126/sciadv.aax8898
+  title: Gastrointestinal transcription factors drive lineage-specific developmental
+    programs in organ specification and cancer
+  authors:
+  - Roshane Francis
+  - Haiyang Guo
+  - Catherine Streutker
+  - Musaddeque Ahmed
+  - Theodora Yung
+  - Peter B. Dirks
+  - Housheng Hansen He
+  - Tae-Hee Kim
+  publisher: Science Advances
+  date: '2019-12-06'
+  link: https://doi.org/grg38z
+  _cache: 577623372bdde5b333e9191299ca2bc7438ea66f1b8c4e1a67d3516bd488827a
+- id: doi:10.1016/j.ccell.2019.10.005
+  title: Cistrome Partitioning Reveals Convergence of Somatic Mutations and Risk Variants
+    on Master Transcription Regulators in Primary Prostate Tumors
+  authors:
+  - Parisa Mazrooei
+  - Ken J. Kron
+  - Yanyun Zhu
+  - Stanley Zhou
+  - Giacomo Grillo
+  - Tahmid Mehdi
+  - Musaddeque Ahmed
+  - Tesa M. Severson
+  - Paul Guilhamon
+  - Nicholas Sinnott Armstrong
+  - Vincent Huang
+  - Takafumi N. Yamaguchi
+  - Michael Fraser
+  - Theodorus van der Kwast
+  - Paul C. Boutros
+  - Housheng Hansen He
+  - Andries M. Bergman
+  - Robert G. Bristow
+  - Wilbert Zwart
+  - Mathieu Lupien
+  publisher: Cancer Cell
+  date: '2019-12-01'
+  link: https://doi.org/grg382
+  _cache: 45f70429eddf647c4119d83496a3073b414fe08437f9939e9572a46a3da735ac
+- id: doi:10.1038/s41467-019-12518-6
+  title: N6-methyladenosine mRNA marking promotes selective translation of regulons
+    required for human erythropoiesis
+  authors:
+  - Daniel A. Kuppers
+  - Sonali Arora
+  - Yiting Lim
+  - Andrea R. Lim
+  - Lucas M. Carter
+  - Philip D. Corrin
+  - Christopher L. Plaisier
+  - Ryan Basom
+  - Jeffrey J. Delrow
+  - Shiyan Wang
+  - Housheng Hansen He
+  - Beverly Torok-Storb
+  - Andrew C. Hsieh
+  - Patrick J. Paddison
+  publisher: Nature Communications
+  date: '2019-10-10'
+  link: https://doi.org/gq95c6
+  _cache: 461d22234cf48a88c62af1dfea31637c8c3150f4523fe33553266a050fafe733
+- id: doi:10.1016/j.tig.2019.08.004
+  title: Landscape of Noncoding RNA in Prostate Cancer
+  authors:
+  - Junjie T. Hua
+  - Sujun Chen
+  - Housheng H. He
+  publisher: Trends in Genetics
+  date: '2019-11-01'
+  link: https://doi.org/ghrhbr
+  _cache: 40bfefc0429fb86e0baaf897eaea3162e916ebcd0fdbf861332f20b27b5b1ad5
+- id: doi:10.1158/0008-5472.CAN-19-0815
+  title: ZBTB7A Mediates the Transcriptional Repression Activity of the Androgen Receptor
+    in Prostate Cancer
+  authors:
+  - Dong Han
+  - Sujun Chen
+  - Wanting Han
+  - Shuai Gao
+  - Jude N. Owiredu
+  - Muqing Li
+  - Steven P. Balk
+  - Housheng Hansen He
+  - Changmeng Cai
+  publisher: Cancer Research
+  date: '2019-10-15'
+  link: https://doi.org/grg384
+  _cache: 76e1d1e53f774e844b70a51dcef8a7569aafe275da0e2c7fbb5cfc786b2cfb90
+- id: doi:10.1038/s41422-019-0203-2
+  title: Forkhead domain mutations in FOXA1 drive prostate cancer progression
+  authors:
+  - Shuai Gao
+  - Sujun Chen
+  - Dong Han
+  - David Barrett
+  - Wanting Han
+  - Musaddeque Ahmed
+  - Susan Patalano
+  - Jill A. Macoska
+  - Housheng Hansen He
+  - Changmeng Cai
+  publisher: Cell Research
+  date: '2019-07-19'
+  link: https://doi.org/grg385
+  _cache: d7e102ce347fc2d34bd1d34dd56e436212f09dc680ef6e2ab49487c372cf3740
+- id: doi:10.1038/s41591-019-0579-z
+  title: Genome-wide germline correlates of the epigenetic landscape of prostate cancer
+  authors:
+  - Kathleen E. Houlahan
+  - Yu-Jia Shiah
+  - Alexander Gusev
+  - Jiapei Yuan
+  - Musaddeque Ahmed
+  - Anamay Shetty
+  - Susmita G. Ramanand
+  - Cindy Q. Yao
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Vincent Huang
+  - Michael Fraser
+  - Lawrence E. Heisler
+  - Julie Livingstone
+  - Takafumi N. Yamaguchi
+  - Alexandre Rouette
+  - Adrien Foucal
+  - Shadrielle Melijah G. Espiritu
+  - Ankit Sinha
+  - Michelle Sam
+  - Lee Timms
+  - Jeremy Johns
+  - Ada Wong
+  - Alex Murison
+  - "Mich\xE8le Orain"
+  - "Val\xE9rie Picard"
+  - "H\xE9l\xE8ne Hovington"
+  - Alain Bergeron
+  - Louis Lacombe
+  - Mathieu Lupien
+  - Yves Fradet
+  - "Bernard T\xEAtu"
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Thomas Kislinger
+  - Melvin L. K. Chua
+  - Mark M. Pomerantz
+  - Theodorus van der Kwast
+  - Matthew L. Freedman
+  - Ram S. Mani
+  - Housheng H. He
+  - Robert G. Bristow
+  - Paul C. Boutros
+  publisher: Nature Medicine
+  date: '2019-10-01'
+  link: https://doi.org/gh4xdz
+  _cache: e320bcff266fbcdfe90d756a2dd113e1c83a9baca1a293620ae23e7c972d07c1
+- id: doi:10.1002/ijc.32296
+  title: "A five\u2010microRNA model (<i>pCaP</i>) for predicting prostate cancer\
+    \ aggressiveness using cell\u2010free urine"
+  authors:
+  - "Jacob Freds\xF8e"
+  - Anne K.I. Rasmussen
+  - Peter Mouritzen
+  - Michael Borre
+  - "Torben \xD8rntoft"
+  - "Karina D. S\xF8rensen"
+  publisher: International Journal of Cancer
+  date: '2019-11-01'
+  link: https://doi.org/grg386
+  _cache: e5801682729c1e3053b96f69bbf8d7fa3d486a3bad16d33c8166aa08aa1ccef5
+- id: doi:10.1158/1078-0432.CCR-18-2387
+  title: DNA-Dependent Protein Kinase Drives Prostate Cancer Progression through Transcriptional
+    Regulation of the Wnt Signaling Pathway
+  authors:
+  - Vishal Kothari
+  - Jonathan F. Goodwin
+  - Shuang G. Zhao
+  - Justin M. Drake
+  - Yi Yin
+  - S. Laura Chang
+  - Joseph R. Evans
+  - Kari Wilder-Romans
+  - Kristina Gabbara
+  - Emanuela Dylgjeri
+  - Jonathan Chou
+  - Grace Sun
+  - Scott A. Tomlins
+  - Rohit Mehra
+  - Kristen Hege
+  - Ellen H. Filvaroff
+  - Edward M. Schaeffer
+  - R. Jeffrey Karnes
+  - David A. Quigley
+  - Dana E. Rathkopf
+  - Housheng H. He
+  - Corey Speers
+  - Daniel E. Spratt
+  - Luke A. Gilbert
+  - Alan Ashworth
+  - Arul M. Chinnaiyan
+  - Ganesh V. Raj
+  - Karen E. Knudsen
+  - Felix Y. Feng
+  publisher: Clinical Cancer Research
+  date: '2019-09-13'
+  link: https://doi.org/grg387
+  _cache: b90f77fe1a4f39283889f02800f5c3c21299a7857584f16ee6b3afd2c8980f84
+- id: doi:10.1073/pnas.1819155116
+  title: Estrogen receptor signaling is reprogrammed during breast tumorigenesis
+  authors:
+  - David Chi
+  - Hari Singhal
+  - Lewyn Li
+  - Tengfei Xiao
+  - Weihan Liu
+  - Matthew Pun
+  - Rinath Jeselsohn
+  - Housheng He
+  - Elgene Lim
+  - Raga Vadhi
+  - Prakash Rao
+  - Henry Long
+  - Judy Garber
+  - Myles Brown
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-05-20'
+  link: https://doi.org/grg388
+  _cache: e6fc74b2edff3a4e241d082e1b4ac10c144dd0eadcf1c58a77e7144bb6422cfa
+- id: doi:10.1016/j.cell.2019.01.025
+  title: Widespread and Functional RNA Circularization in Localized Prostate Cancer
+  authors:
+  - Sujun Chen
+  - Vincent Huang
+  - Xin Xu
+  - Julie Livingstone
+  - Fraser Soares
+  - Jouhyun Jeon
+  - Yong Zeng
+  - Junjie Tony Hua
+  - Jessica Petricca
+  - Haiyang Guo
+  - Miranda Wang
+  - Fouad Yousif
+  - Yuzhe Zhang
+  - Nilgun Donmez
+  - Musaddeque Ahmed
+  - Stas Volik
+  - Anna Lapuk
+  - Melvin L.K. Chua
+  - Lawrence E. Heisler
+  - Adrien Foucal
+  - Natalie S. Fox
+  - Michael Fraser
+  - Vinayak Bhandari
+  - Yu-Jia Shiah
+  - Jiansheng Guan
+  - Jixi Li
+  - "Mich\xE8le Orain"
+  - "Val\xE9rie Picard"
+  - "H\xE9l\xE8ne Hovington"
+  - Alain Bergeron
+  - Louis Lacombe
+  - Yves Fradet
+  - "Bernard T\xEAtu"
+  - Stanley Liu
+  - Felix Feng
+  - Xue Wu
+  - Yang W. Shao
+  - Malgorzata A. Komor
+  - Cenk Sahinalp
+  - Colin Collins
+  - Youri Hoogstrate
+  - Mark de Jong
+  - Remond J.A. Fijneman
+  - Teng Fei
+  - Guido Jenster
+  - Theodorus van der Kwast
+  - Robert G. Bristow
+  - Paul C. Boutros
+  - Housheng Hansen He
+  publisher: Cell
+  date: '2019-02-01'
+  link: https://doi.org/gfvgzv
+  _cache: e80f3b26a3cb37e37cf123cb47858078d4a089d9d9d19bcc9b53a29633047d16
+- id: doi:10.1038/s41467-018-08133-6
+  title: ONECUT2 is a driver of neuroendocrine prostate cancer
+  authors:
+  - Haiyang Guo
+  - Xinpei Ci
+  - Musaddeque Ahmed
+  - Junjie Tony Hua
+  - Fraser Soares
+  - Dong Lin
+  - Loredana Puca
+  - Aram Vosoughi
+  - Hui Xue
+  - Estelle Li
+  - Peiran Su
+  - Sujun Chen
+  - Tran Nguyen
+  - Yi Liang
+  - Yuzhe Zhang
+  - Xin Xu
+  - Jing Xu
+  - Anjali V. Sheahan
+  - Wail Ba-Alawi
+  - Si Zhang
+  - Osman Mahamud
+  - Ravi N. Vellanki
+  - Martin Gleave
+  - Robert G. Bristow
+  - Benjamin Haibe-Kains
+  - John T. Poirier
+  - Charles M. Rudin
+  - Ming-Sound Tsao
+  - Bradly G. Wouters
+  - Ladan Fazli
+  - Felix Y. Feng
+  - Leigh Ellis
+  - Theo van der Kwast
+  - Alejandro Berlin
+  - Marianne Koritzinsky
+  - Paul C. Boutros
+  - Amina Zoubeidi
+  - Himisha Beltran
+  - Yuzhuo Wang
+  - Housheng Hansen He
+  publisher: Nature Communications
+  date: '2019-01-17'
+  link: https://doi.org/ggq9cr
+  _cache: 21888d8c6e578a7c2780d697009603f734132d1d7f91dd2c77e685dd0e8593cb
+- id: doi:10.1038/s41388-019-0730-9
+  title: TMPRSS2-ERG activates NO-cGMP signaling in prostate cancer cells
+  authors:
+  - Feng Zhou
+  - Shuai Gao
+  - Dong Han
+  - Wanting Han
+  - Sujun Chen
+  - Susan Patalano
+  - Jill A. Macoska
+  - Housheng Hansen He
+  - Changmeng Cai
+  publisher: Oncogene
+  date: '2019-02-04'
+  link: https://doi.org/grg389
+  _cache: e0a894bb1e65aa69365ef6053321792c5d85c8edbbf39e9f679feac28c0332d9
+- id: doi:10.1371/journal.pbio.2006092
+  title: Refined RIP-seq protocol for epitranscriptome analysis with low input materials
+  authors:
+  - Yong Zeng
+  - Shiyan Wang
+  - Shanshan Gao
+  - Fraser Soares
+  - Musadeqque Ahmed
+  - Haiyang Guo
+  - Miranda Wang
+  - Junjie Tony Hua
+  - Jiansheng Guan
+  - Michael F. Moran
+  - Ming Sound Tsao
+  - Housheng Hansen He
+  publisher: PLOS Biology
+  date: '2018-09-13'
+  link: https://doi.org/gd9kxx
+  _cache: 2eee04296474436a40823d8cc6125fc67e6bf05bcc1cd42009d174f757bce6d6
+- id: doi:10.1016/j.cell.2018.06.014
+  title: Risk SNP-Mediated Promoter-Enhancer Switching Drives Prostate Cancer through
+    lncRNA PCAT19
+  authors:
+  - Junjie Tony Hua
+  - Musaddeque Ahmed
+  - Haiyang Guo
+  - Yuzhe Zhang
+  - Sujun Chen
+  - Fraser Soares
+  - Jennifer Lu
+  - Stanley Zhou
+  - Miranda Wang
+  - Hui Li
+  - Nicholas B. Larson
+  - Shannon K. McDonnell
+  - Parasvi S. Patel
+  - Yi Liang
+  - Cindy Q. Yao
+  - Theodorus van der Kwast
+  - Mathieu Lupien
+  - Felix Y. Feng
+  - Amina Zoubeidi
+  - Ming-Sound Tsao
+  - Stephen N. Thibodeau
+  - Paul C. Boutros
+  - Housheng Hansen He
+  publisher: Cell
+  date: '2018-07-01'
+  link: https://doi.org/gdvjwb
+  _cache: b17fff9166ac548976db7028f4aa5b9b6ab1bd4906480ab45225362928729fa0
+- id: doi:10.1016/j.cell.2018.06.039
+  title: Genomic Hallmarks and Structural Variation in Metastatic Prostate Cancer
+  authors:
+  - David A. Quigley
+  - Ha X. Dang
+  - Shuang G. Zhao
+  - Paul Lloyd
+  - Rahul Aggarwal
+  - Joshi J. Alumkal
+  - Adam Foye
+  - Vishal Kothari
+  - Marc D. Perry
+  - Adina M. Bailey
+  - Denise Playdle
+  - Travis J. Barnard
+  - Li Zhang
+  - Jin Zhang
+  - Jack F. Youngren
+  - Marcin P. Cieslik
+  - Abhijit Parolia
+  - Tomasz M. Beer
+  - George Thomas
+  - Kim N. Chi
+  - Martin Gleave
+  - Nathan A. Lack
+  - Amina Zoubeidi
+  - Robert E. Reiter
+  - Matthew B. Rettig
+  - Owen Witte
+  - Charles J. Ryan
+  - Lawrence Fong
+  - Won Kim
+  - Terence Friedlander
+  - Jonathan Chou
+  - Haolong Li
+  - Rajdeep Das
+  - Hui Li
+  - Ruhollah Moussavi-Baygi
+  - Hani Goodarzi
+  - Luke A. Gilbert
+  - Primo N. Lara
+  - Christopher P. Evans
+  - Theodore C. Goldstein
+  - Joshua M. Stuart
+  - Scott A. Tomlins
+  - Daniel E. Spratt
+  - R. Keira Cheetham
+  - Donavan T. Cheng
+  - Kyle Farh
+  - Julian S. Gehring
+  - "J\xF6rg Hakenberg"
+  - Arnold Liao
+  - Philip G. Febbo
+  - John Shon
+  - Brad Sickler
+  - Serafim Batzoglou
+  - Karen E. Knudsen
+  - Housheng H. He
+  - Jiaoti Huang
+  - Alexander W. Wyatt
+  - Scott M. Dehm
+  - Alan Ashworth
+  - Arul M. Chinnaiyan
+  - Christopher A. Maher
+  - Eric J. Small
+  - Felix Y. Feng
+  publisher: Cell
+  date: '2018-07-01'
+  link: https://doi.org/gdvjwf
+  _cache: e63cad71c0373306015bf8606790830cb810efb8259161856b42aa7eef656ab3
+- id: doi:10.1016/j.cell.2018.05.052
+  title: LSD1 Ablation Stimulates Anti-tumor Immunity and Enables Checkpoint Blockade
+  authors:
+  - Wanqiang Sheng
+  - Martin W. LaFleur
+  - Thao H. Nguyen
+  - Sujun Chen
+  - Ankur Chakravarthy
+  - Jake Ryan Conway
+  - Ying Li
+  - Hao Chen
+  - Henry Yang
+  - Pang-Hung Hsu
+  - Eliezer M. Van Allen
+  - Gordon J. Freeman
+  - Daniel D. De Carvalho
+  - Housheng Hansen He
+  - Arlene H. Sharpe
+  - Yang Shi
+  publisher: Cell
+  date: '2018-07-01'
+  link: https://doi.org/gdpczm
+  _cache: 2d370acc75927bee904b0b7e388ac5568938c47d55455affbffb7e80d2cb1dab
+- id: doi:10.1158/1538-7445.AM2018-773
+  title: "Abstract 773: A heterochromatin gene signature unveils HP1\u03B1 mediating\
+    \ neuroendocrine prostate cancer development and aggressiveness"
+  authors:
+  - Xinpei Ci
+  - Jun Hao
+  - Xin Dong
+  - Stephen Y. Choi
+  - Hui Xue
+  - Sifeng Qu
+  - Ladan Fazli
+  - Francesco Crea
+  - Christopher Ong
+  - Amina Zoubeidi
+  - Housheng H. He
+  - Martin E. Gleave
+  - Colin C. Collins
+  - Dong Lin
+  - Yuzhuo Wang
+  publisher: Cancer Research
+  date: '2018-07-01'
+  link: https://doi.org/grg39b
+  _cache: bdbfa3093ddb4cc4be037c8614b144fa938f6fce9117ea2c3cfe61e777c61ff9
+- id: doi:10.1038/onc.2017.385
+  title: Reactivation of androgen receptor-regulated lipid biosynthesis drives the
+    progression of castration-resistant prostate cancer
+  authors:
+  - W Han
+  - S Gao
+  - D Barrett
+  - M Ahmed
+  - D Han
+  - J A Macoska
+  - H H He
+  - C Cai
+  publisher: Oncogene
+  date: '2017-10-23'
+  link: https://doi.org/gcf2ms
+  _cache: f0555e31bb2099b0c693624c8a94f909b06c6a79123d0bce8dffc3f752fbccc6
+- id: doi:10.1158/0008-5472.CAN-17-0496
+  title: LSD1-Mediated Epigenetic Reprogramming Drives CENPE Expression and Prostate
+    Cancer Progression
+  authors:
+  - Yi Liang
+  - Musaddeque Ahmed
+  - Haiyang Guo
+  - Fraser Soares
+  - Junjie T. Hua
+  - Shuai Gao
+  - Catherine Lu
+  - Christine Poon
+  - Wanting Han
+  - Jens Langstein
+  - Muhammad B. Ekram
+  - Brian Li
+  - Elai Davicioni
+  - Mandeep Takhar
+  - Nicholas Erho
+  - R. Jeffrey Karnes
+  - Dianne Chadwick
+  - Theodorus van der Kwast
+  - Paul C. Boutros
+  - Cheryl H. Arrowsmith
+  - Felix Y. Feng
+  - Anthony M. Joshua
+  - Amina Zoubeidi
+  - Changmeng Cai
+  - Housheng H. He
+  publisher: Cancer Research
+  date: '2017-10-15'
+  link: https://doi.org/gcts65
+  _cache: a3f04a697166e3ab703f48e90052f9ba47c01dfdd26c12879d38a44d16f4de08
+- id: doi:10.1073/pnas.1617467114
+  title: Genome-wide CRISPR screen identifies HNRNPL as a prostate cancer dependency
+    regulating RNA splicing
+  authors:
+  - Teng Fei
+  - Yiwen Chen
+  - Tengfei Xiao
+  - Wei Li
+  - Laura Cato
+  - Peng Zhang
+  - Maura B. Cotter
+  - Michaela Bowden
+  - Rosina T. Lis
+  - Shuang G. Zhao
+  - Qiu Wu
+  - Felix Y. Feng
+  - Massimo Loda
+  - Housheng Hansen He
+  - X. Shirley Liu
+  - Myles Brown
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2017-06-13'
+  link: https://doi.org/gjqqbk
+  _cache: 0709eba6089c270435243630c5a606cc8800faa93b33f4a3001e1f72bffe53b1
+- id: doi:10.1073/pnas.1617467114
+  title: Genome-wide CRISPR screen identifies HNRNPL as a prostate cancer dependency
+    regulating RNA splicing
+  authors:
+  - Teng Fei
+  - Yiwen Chen
+  - Tengfei Xiao
+  - Wei Li
+  - Laura Cato
+  - Peng Zhang
+  - Maura B. Cotter
+  - Michaela Bowden
+  - Rosina T. Lis
+  - Shuang G. Zhao
+  - Qiu Wu
+  - Felix Y. Feng
+  - Massimo Loda
+  - Housheng Hansen He
+  - X. Shirley Liu
+  - Myles Brown
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2017-06-13'
+  link: https://doi.org/gjqqbk
+  _cache: 0709eba6089c270435243630c5a606cc8800faa93b33f4a3001e1f72bffe53b1
+- id: doi:10.1073/pnas.1617636114
+  title: Transcriptional landscape of the human cell cycle
+  authors:
+  - Yin Liu
+  - Sujun Chen
+  - Su Wang
+  - Fraser Soares
+  - Martin Fischer
+  - Feilong Meng
+  - Zhou Du
+  - Charles Lin
+  - Clifford Meyer
+  - James A. DeCaprio
+  - Myles Brown
+  - X. Shirley Liu
+  - Housheng Hansen He
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2017-03-13'
+  link: https://doi.org/f92b49
+  _cache: 07461a475c5724aa98c3db02f066b232f658611a04c3f9eda4f9f7511e76ed8e
+- id: doi:10.1186/s13040-017-0129-5
+  title: 'Variant Set Enrichment: an R package to identify disease-associated functional
+    genomic regions'
+  authors:
+  - Musaddeque Ahmed
+  - Richard C. Sallari
+  - Haiyang Guo
+  - Jason H. Moore
+  - Housheng Hansen He
+  - Mathieu Lupien
+  publisher: BioData Mining
+  date: '2017-02-22'
+  link: https://doi.org/gcpgb8
+  _cache: d058a78845b2bcd103888826e812737f7a05793c36de510da36ec01a8a1a755a
+- id: doi:10.2217/pme-2016-0090
+  title: "Noncoding RNA for personalized prostate cancer treatment: utilizing the\
+    \ \u2018dark matters\u2019 of the genome"
+  authors:
+  - Junjie Hua
+  - Jennifer Lu
+  - Keren Isaev
+  - Fraser Soares
+  - Haiyang Guo
+  - Musaddeque Ahmed
+  - Housheng Hansen He
+  publisher: Personalized Medicine
+  date: '2017-03-01'
+  link: https://doi.org/f9s2td
+  _cache: 443d396f59b408143e0516ae7148efd1443a271c2e0ef4f752aae5ac3d8ac6e6
 - id: doi:10.1038/ncomms14003
   title: K48-linked KLF4 ubiquitination by E3 ligase Mule controls T-cell proliferation
     and cell cycle progression
