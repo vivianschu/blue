@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: lab members
 ---
 
 # <i class="fas fa-users"></i>Team
