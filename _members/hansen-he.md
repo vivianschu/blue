@@ -3,6 +3,7 @@ name: Hansen He
 image: images/hansen-he.jpg
 description: Senior Scientist & Professor
 role: pi
+group: current
 aliases:
   - H. He
   - H He
