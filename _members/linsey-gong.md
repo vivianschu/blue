@@ -3,6 +3,7 @@ name: Linsey Gong
 image: images/linsey-gong.jpg
 description: MSc Student
 role: grad
+group: current
 aliases:
   - L. Gong
   - L Gong
