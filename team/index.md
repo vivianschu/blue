@@ -19,6 +19,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: staff"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: pdf"
 %}
 {%
@@ -26,6 +32,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
 %}
 {:.center}
 
