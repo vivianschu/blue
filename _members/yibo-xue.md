@@ -9,5 +9,6 @@ aliases:
   - Y Xue
 links:
   email:
-current position:
 ---
+
+Current Position:
