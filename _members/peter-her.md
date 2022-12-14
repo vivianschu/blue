@@ -3,6 +3,7 @@ name: Peter Her
 image: images/peter-her.jpg
 description: MSc Student
 role: grad
+group: current
 aliases:
   - P. Her
   - P Her
