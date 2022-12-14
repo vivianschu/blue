@@ -1,7 +1,7 @@
 ---
 name: Miranda Wang
 image: images/miranda-wang.jpg
-description: 
+description: Staff
 role: staff
 group: alumni
 aliases:
@@ -9,5 +9,6 @@ aliases:
   - M Wang
 links:
   email:
-current position: Dentistry, Western University
 ---
+
+Current Position: Dentistry, Western University
