@@ -10,9 +10,6 @@ nav:
 ### Postdoctoral Fellowships & Research Associates
 We are currently seeking computational and experimental postdoctoral fellows to take lead on research projects in the field of cancer genomics and epigenomics, including noncoding RNA functional screening, RNA editing and epigenetic therapy. Candidates with strong background in genomics, epigenetics, molecular/cancer biology and bioinformatics are encouraged to apply.
 
-Computational postdoc/research associate
-
-Job description and qualifications
 
 Qualifications for Computational Postdoctoral Fellow
 
