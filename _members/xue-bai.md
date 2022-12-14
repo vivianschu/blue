@@ -9,5 +9,6 @@ aliases:
   - X Bai
 links:
   email:
-current position: Director of Forensic Medicine, Ministry of Public Security China
 ---
+
+Current Position: Director of Forensic Medicine, Ministry of Public Security China
