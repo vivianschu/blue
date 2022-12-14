@@ -9,5 +9,6 @@ aliases:
   - W Ye
 links:
   email: 
-current position: PhD Systems Engineering, Xiamen University
 ---
+
+Current Position: PhD Systems Engineering, Xiamen University
