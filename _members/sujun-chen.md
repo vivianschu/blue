@@ -3,6 +3,7 @@ name: Sujun Chen
 image: images/sujun-chen.jpg
 description: Postdoctoral Fellow
 role: pdf
+group: alumni
 aliases:
   - S. Chen
   - S Chen
