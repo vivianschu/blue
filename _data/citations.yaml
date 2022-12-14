@@ -1,67 +1,364 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/ncomms14003
+  title: K48-linked KLF4 ubiquitination by E3 ligase Mule controls T-cell proliferation
+    and cell cycle progression
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Zhenyue Hao
+  - Yi Sheng
+  - Gordon S. Duncan
+  - Wanda Y. Li
+  - Carmen Dominguez
+  - Jennifer Sylvester
+  - Yu-Wen Su
+  - Gloria H.Y. Lin
+  - Bryan E. Snow
+  - Dirk Brenner
+  - Annick You-Ten
+  - Jillian Haight
+  - Satoshi Inoue
+  - Andrew Wakeham
+  - Alisha Elford
+  - Sara Hamilton
+  - Yi Liang
+  - "Juan C. Z\xFA\xF1iga-Pfl\xFCcker"
+  - Housheng Hansen He
+  - Pamela S. Ohashi
+  - Tak W. Mak
+  publisher: Nature Communications
+  date: '2017-01-13'
+  link: https://doi.org/f9kzjw
+  _cache: 3879d8f15be593ede21390c89e331e16554bdc51cd6c7966c85cbb7f2f7ea1d7
+- id: doi:10.1038/nature20788
+  title: Genomic hallmarks of localized, non-indolent prostate cancer
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Michael Fraser
+  - Veronica Y. Sabelnykova
+  - Takafumi N. Yamaguchi
+  - Lawrence E. Heisler
+  - Julie Livingstone
+  - Vincent Huang
+  - Yu-Jia Shiah
+  - Fouad Yousif
+  - Xihui Lin
+  - Andre P. Masella
+  - Natalie S. Fox
+  - Michael Xie
+  - Stephenie D. Prokopec
+  - Alejandro Berlin
+  - Emilie Lalonde
+  - Musaddeque Ahmed
+  - Dominique Trudel
+  - Xuemei Luo
+  - Timothy A. Beck
+  - Alice Meng
+  - Junyan Zhang
+  - "Alister D\u2019Costa"
+  - Robert E. Denroche
+  - Haiying Kong
+  - Shadrielle Melijah G. Espiritu
+  - Melvin L. K. Chua
+  - Ada Wong
+  - Taryne Chong
+  - Michelle Sam
+  - Jeremy Johns
+  - Lee Timms
+  - Nicholas B. Buchner
+  - "Mich\xE8le Orain"
+  - "Val\xE9rie Picard"
+  - "Hel\xE8ne Hovington"
+  - Alexander Murison
+  - Ken Kron
+  - Nicholas J. Harding
+  - "Christine P\u2019ng"
+  - Kathleen E. Houlahan
+  - Kenneth C. Chu
+  - Bryan Lo
+  - Francis Nguyen
+  - Constance H. Li
+  - Ren X. Sun
+  - Richard de Borja
+  - Christopher I. Cooper
+  - Julia F. Hopkins
+  - Shaylan K. Govind
+  - Clement Fung
+  - Daryl Waggott
+  - Jeffrey Green
+  - Syed Haider
+  - Michelle A. Chan-Seng-Yue
+  - Esther Jung
+  - Zhiyuan Wang
+  - Alain Bergeron
+  - Alan Dal Pra
+  - Louis Lacombe
+  - Colin C. Collins
+  - Cenk Sahinalp
+  - Mathieu Lupien
+  - Neil E. Fleshner
+  - Housheng H. He
+  - Yves Fradet
+  - Bernard Tetu
+  - Theodorus van der Kwast
+  - John D. McPherson
+  - Robert G. Bristow
+  - Paul C. Boutros
+  publisher: Nature
+  date: '2017-01-01'
+  link: https://doi.org/f9ttj6
+  _cache: ad9e5478e8717c70abb42af7da46b48b018ca46188e0ba04b0d097e80a6f7167
+- id: doi:10.1016/j.celrep.2016.09.064
+  title: Androgen Receptor Tumor Suppressor Function Is Mediated by Recruitment of
+    Retinoblastoma Protein
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - Shuai Gao
+  - Yanfei Gao
+  - "Housheng\_Hansen He"
+  - Dong Han
+  - Wanting Han
+  - Amy Avery
+  - "Jill\_A. Macoska"
+  - Xiaming Liu
+  - Sen Chen
+  - Fen Ma
+  - Shaoyong Chen
+  - "Steven\_P. Balk"
+  - Changmeng Cai
+  publisher: Cell Reports
+  date: '2016-10-01'
+  link: https://doi.org/grg37k
+  _cache: cdc176ec5bbd7be946d71c15592ac961803b0d2cfc39780cc85a090bab5a86a7
+- id: doi:10.1038/ng.3637
+  title: Modulation of long noncoding RNAs by risk SNPs underlying genetic predispositions
+    to prostate cancer
+  authors:
+  - Haiyang Guo
+  - Musaddeque Ahmed
+  - Fan Zhang
+  - Cindy Q Yao
+  - SiDe Li
+  - Yi Liang
+  - Junjie Hua
+  - Fraser Soares
+  - Yifei Sun
+  - Jens Langstein
+  - Yuchen Li
+  - Christine Poon
+  - Swneke D Bailey
+  - Kinjal Desai
+  - Teng Fei
+  - Qiyuan Li
+  - Dorota H Sendorek
+  - Michael Fraser
+  - John R Prensner
+  - Trevor J Pugh
+  - Mark Pomerantz
+  - Robert G Bristow
+  - Mathieu Lupien
+  - Felix Y Feng
+  - Paul C Boutros
+  - Matthew L Freedman
+  - Martin J Walsh
+  - Housheng Hansen He
+  publisher: Nature Genetics
+  date: '2016-08-15'
+  link: https://doi.org/f85r4h
+  _cache: 99e1c90e0c698f7a1678e2304958194e87ec0450023fea8abfdcd640aab0e029
+- id: doi:10.1101/gr.201574.115
+  title: Modeling <i>cis</i>-regulation with a compendium of genome-wide histone H3K27ac
+    profiles
+  authors:
+  - Su Wang
+  - Chongzhi Zang
+  - Tengfei Xiao
+  - Jingyu Fan
+  - Shenglin Mei
+  - Qian Qin
+  - Qiu Wu
+  - Xujuan Li
+  - Kexin Xu
+  - Housheng Hansen He
+  - Myles Brown
+  - Clifford A. Meyer
+  - X. Shirley Liu
+  publisher: Genome Research
+  date: '2016-07-27'
+  link: https://doi.org/f863m2
+  _cache: 0c3efeab6f21a39a303e8d5f591821882534463bc03172f0cf9540c1f5403126
+- id: doi:10.1038/ncomms11305
+  title: High-dimensional genomic data bias correction and data integration using
+    MANCIE
+  authors:
+  - Chongzhi Zang
+  - Tao Wang
+  - Ke Deng
+  - Bo Li
+  - "Sheng\u2019en Hu"
+  - Qian Qin
+  - Tengfei Xiao
+  - Shihua Zhang
+  - Clifford A. Meyer
+  - Housheng Hansen He
+  - Myles Brown
+  - Jun S. Liu
+  - Yang Xie
+  - X. Shirley Liu
+  publisher: Nature Communications
+  date: '2016-04-13'
+  link: https://doi.org/f8hzpf
+  _cache: 0e6bdd8ba6aa9c8d968481520dbb50629f441376cf7ce9a7614c0ae195dbe7e3
+- id: doi:10.1172/JCI78815
+  title: SOX9 drives WNT pathway activation in prostate cancer
+  authors:
+  - Fen Ma
+  - Huihui Ye
+  - Housheng Hansen He
+  - Sean J. Gerrin
+  - Sen Chen
+  - Benjamin A. Tanenbaum
+  - Changmeng Cai
+  - Adam G. Sowalsky
+  - Lingfeng He
+  - Hongyun Wang
+  - Steven P. Balk
+  - Xin Yuan
+  publisher: Journal of Clinical Investigation
+  date: '2016-04-04'
+  link: https://doi.org/f8jxfk
+  _cache: 42d93d2cb6f382fbf1f38951f6d715f4c9723694c6179568b50ce0b234edd3cc
+- id: doi:10.1038/nature16508
+  title: Response and resistance to BET bromodomain inhibitors in triple-negative
+    breast cancer
+  authors:
+  - Shaokun Shu
+  - Charles Y. Lin
+  - Housheng Hansen He
+  - Robert M. Witwicki
+  - Doris P. Tabassum
+  - Justin M. Roberts
+  - Michalina Janiszewska
+  - Sung Jin Huh
+  - Yi Liang
+  - Jeremy Ryan
+  - Ernest Doherty
+  - Hisham Mohammed
+  - Hao Guo
+  - Daniel G. Stover
+  - Muhammad B. Ekram
+  - Guillermo Peluffo
+  - Jonathan Brown
+  - "Clive D\u2019Santos"
+  - Ian E. Krop
+  - Deborah Dillon
+  - Michael McKeown
+  - Christopher Ott
+  - Jun Qi
+  - Min Ni
+  - Prakash K. Rao
+  - Melissa Duarte
+  - Shwu-Yuan Wu
+  - Cheng-Ming Chiang
+  - Lars Anders
+  - Richard A. Young
+  - Eric P. Winer
+  - Antony Letai
+  - William T. Barry
+  - Jason S. Carroll
+  - Henry W. Long
+  - Myles Brown
+  - X. Shirley Liu
+  - Clifford A. Meyer
+  - James E. Bradner
+  - Kornelia Polyak
+  publisher: Nature
+  date: '2016-01-01'
+  link: https://doi.org/f763ms
+  _cache: 4b2c1f67a64bc878438fb74077dfcfb027090809c5634b88436742df8a69c147
+- id: doi:10.1158/1541-7786.MCR-15-0313
+  title: Integrative Analysis Reveals the Transcriptional Collaboration between EZH2
+    and E2F1 in the Regulation of Cancer-Related Gene Expression
+  authors:
+  - Han Xu
+  - Kexin Xu
+  - Housheng H. He
+  - Chongzhi Zang
+  - Chen-Hao Chen
+  - Yiwen Chen
+  - Qian Qin
+  - Su Wang
+  - Chenfei Wang
+  - Shengen Hu
+  - Fugen Li
+  - Henry Long
+  - Myles Brown
+  - X. Shirley Liu
+  publisher: Molecular Cancer Research
+  date: '2016-02-01'
+  link: https://doi.org/f8dsgc
+  _cache: 08abf82b58e92a31a6c4a299595303788c5bcdb30a7c5411ffad75b3c0c50baf
+- id: doi:10.1158/0008-5472.CAN-14-3602
+  title: PLZF, a Tumor Suppressor Genetically Lost in Metastatic Castration-Resistant
+    Prostate Cancer, Is a Mediator of Resistance to Androgen Deprivation Therapy
+  authors:
+  - Chen-Lin Hsieh
+  - Ginevra Botta
+  - Shuai Gao
+  - Tiantian Li
+  - Eliezer M. Van Allen
+  - Daniel J. Treacy
+  - Changmeng Cai
+  - Housheng Hansen He
+  - Christopher J. Sweeney
+  - Myles Brown
+  - Steven P. Balk
+  - Peter S. Nelson
+  - Levi A. Garraway
+  - Philip W. Kantoff
+  publisher: Cancer Research
+  date: '2015-05-13'
+  link: https://doi.org/f7jcnx
+  _cache: b7bf9b83178a3f1e2a6d0694643b88383c0ba3fa8910966bfb2972002f87e809
+- id: doi:10.1016/j.celrep.2014.11.008
+  title: Lysine-Specific Demethylase 1 Has Dual Functions as a Major Regulator of
+    Androgen Receptor Transcriptional Activity
+  authors:
+  - Changmeng Cai
+  - "Housheng\_Hansen He"
+  - Shuai Gao
+  - Sen Chen
+  - Ziyang Yu
+  - Yanfei Gao
+  - Shaoyong Chen
+  - "Mei\_Wei Chen"
+  - Jesse Zhang
+  - Musaddeque Ahmed
+  - Yang Wang
+  - Eric Metzger
+  - "Roland Sch\xFCle"
+  - "X.\_Shirley Liu"
+  - Myles Brown
+  - "Steven\_P. Balk"
+  publisher: Cell Reports
+  date: '2014-12-01'
+  link: https://doi.org/grg37m
+  _cache: 2b708d95e8e592293699034c216cefad44ad4986834006b4ef02d539c8c1825e
+- id: doi:10.1038/nmeth.2762
+  title: Refined DNase-seq protocol and data analysis reveals intrinsic bias in transcription
+    factor footprint identification
+  authors:
+  - Housheng Hansen He
+  - Clifford A Meyer
+  - Sheng'en Shawn Hu
+  - Mei-Wei Chen
+  - Chongzhi Zang
+  - Yin Liu
+  - Prakash K Rao
+  - Teng Fei
+  - Han Xu
+  - Henry Long
+  - X Shirley Liu
+  - Myles Brown
+  publisher: Nature Methods
+  date: '2013-12-08'
+  link: https://doi.org/gf2nts
+  _cache: 50957c86da1278c794ac37c988ad0f6842bb3ae762ae3714343701efaf02d750
