@@ -14,11 +14,3 @@ Our laboratory applies a variety of genomic, epigenomic experimental and computa
 1. Understand epigenetic regulation in cancer development, progression, drug response and resistance
 2. Identify epigenetic biomarkers in tumor and liquid biopsies.
 3. Target cancer specific epigenetic regulation for cancer therapy.
-
-{% include section.html %}
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
