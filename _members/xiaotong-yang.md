@@ -9,5 +9,6 @@ aliases:
   - X Yang
 links:
   email:
-current position: BSc Student, University of Toronto
 ---
+
+Current Position: BSc Student, University of Toronto
