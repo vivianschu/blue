@@ -6,7 +6,7 @@ description: An RNA Epigenetics Lab based at the University of Toronto.
 logo: images/logo.png
 header: 
 footer: 
-baseurl: /blue
+baseurl: /he-lab-test
 
 # site social media and other links
 links:
