@@ -3,6 +3,7 @@ name: Guanghui Zhu
 image: images/guanghui-zhu.jpg
 description: Postdoctoral Fellow
 role: pdf
+group: current
 aliases:
   - G. Zhu
   - G Zhu
