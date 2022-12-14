@@ -1,3 +1,9 @@
+title: Publications
+description: Publications
+nav:
+  order: 2
+  tooltip: Praise and laurels
+  
 {% include section.html %}
 
 {% include search-box.html %}
