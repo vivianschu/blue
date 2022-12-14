@@ -10,26 +10,6 @@ nav:
 Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
 We are located on the 11th floor of the Princess Margaret Cancer Research Tower.
 
-{% capture col1 %}
-{%
-  Dr. Housheng (Hansen) He
-  PMCRT 11-305
-  101 College Street
-  Toronto, ON M5G 1L7
-  Phone: (416) 581-7736
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  Amelia Navarrete
-  PMCRT 5-351B / 13-701
-  101 College Street
-  Toronto, ON M5G 1L7
-  Phone: (416) 581-7559
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
-
 {%
   include link.html
   type="email"
