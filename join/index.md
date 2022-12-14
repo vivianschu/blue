@@ -2,7 +2,7 @@
 title: Positions
 nav:
   order: 6
-  tooltip: Open positions in the lab
+  tooltip: join us
 ---
 
 # <i class="fas fa-envelope"></i>Positions
