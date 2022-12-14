@@ -9,5 +9,6 @@ aliases:
   - C. Poon
 links:
   email:
-current position: BMSc Student, University of Western Ontario
 ---
+
+Current Position: BMSc Student, University of Western Ontario
