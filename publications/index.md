@@ -1,8 +1,9 @@
+---
 title: Publications
-description: Publications
 nav:
   order: 2
-  tooltip: Praise and laurels
+  tooltip: Published works
+---
   
 {% include section.html %}
 
