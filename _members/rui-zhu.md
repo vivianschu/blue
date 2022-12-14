@@ -9,5 +9,6 @@ aliases:
   - R Zhu
 links:
   email:
-current position: 
 ---
+
+Current Position:
