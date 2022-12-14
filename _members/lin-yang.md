@@ -3,6 +3,7 @@ name: Lin Yang
 image: images/lin-yang.jpg
 description: 
 role: grad
+group: current
 aliases:
   - L. Yang
   - L Yang
