@@ -9,5 +9,6 @@ aliases:
   - Z Wei
 links:
   email:
-current position: Clinical Laboratory Technician, Shandong University
 ---
+
+Current Position: Clinical Laboratory Technician, Shandong University
