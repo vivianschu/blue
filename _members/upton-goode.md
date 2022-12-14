@@ -1,18 +1,15 @@
 ---
-name: Upton O. Goode
-image: images/member.jpg
-description: Bone Investigator
-role: pi
+name: Dave Guo
+image: images/dave-guo.jpg
+description: Research Technician
+role: staff
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - D. Guo
+  - D Guo
 links:
-  orcid: 0000-0001-8713-9213
   email: upton@ogoode.com
-  twitter: uptonogoode
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Dave obtained his MSc at the University of Toronto. 
+His work focused on the impact of air pollution on lung infections in cystic fibrosis using mouse models. 
+He is currently working as a research technician in the lab.
