@@ -8,6 +8,6 @@ aliases:
   - Y. Zheng
   - Y Zheng
 links:
-  email: amelia.navarrete@uhnresearch.ca
+  email: 
 current position: Affiliate Scientist, PMCC
 ---
