@@ -43,7 +43,7 @@ nav:
 
 ## Alumni
 
-Our outstanding lab alumni are listed below, including former graduate students, PDFs, and also undergraduate students that have co-authored publications. If you are missing from this list, apologies, and please let us know.
+Our outstanding lab alumni are listed below, including former graduate students, PDFs, and undergraduate students. If you are missing from this list, apologies, and please let us know.
 
 {% include list.html 
    data="members"
