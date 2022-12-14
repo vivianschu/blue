@@ -9,5 +9,6 @@ aliases:
   - F Soares
 links:
   email: 
-current position:
 ---
+
+Current Positon:
