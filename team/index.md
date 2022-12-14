@@ -7,11 +7,6 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 {% include section.html %}
 
 {%
@@ -24,20 +19,27 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: pdf"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: phd"
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+## Alumni
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our outstanding lab alumni are listed below, including former graduate students, PDFs, and also undergraduate students that have co-authored publications. If you are missing from this list, apologies, and please let us know.
+
+{% include list.html 
+   data="members"
+   component="portrait"
+   filters="group: alumni"
+   style="small"
+%}
+{:.center}
 
 {% include section.html %}
 
