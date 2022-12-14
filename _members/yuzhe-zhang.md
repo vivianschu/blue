@@ -9,5 +9,6 @@ aliases:
   - Y Zhang
 links:
   email:
-current position: Lecturer, University of Dali
 ---
+
+Current Position: Lecturer, University of Dali
