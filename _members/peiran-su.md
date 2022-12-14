@@ -3,6 +3,7 @@ name: Peiran Su
 image: images/peiran-su.jpg
 description: PhD Candidate
 role: grad
+group: current
 aliases:
   - P. Su
   - P Su
