@@ -9,5 +9,6 @@ aliases:
   - M. Ahmed
 links:
   email: 
-current position: Staff Scientist, Roche
 ---
+
+Current Position: Staff Scientist, Roche
