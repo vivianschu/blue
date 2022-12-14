@@ -9,5 +9,6 @@ aliases:
   - X Wang
 links:
   email:
-current position: MSc Student, Harvard University
 ---
+
+Current Position: MSc Student, Harvard University
