@@ -4,7 +4,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/dna-background.jpeg" %}
+{% include banner.html image="images/dna-banner.jpeg" %}
 
 {% include section.html %}
 
