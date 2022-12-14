@@ -3,6 +3,7 @@ name: Xin Xu
 image: images/xin-xu.jpg
 description: Postdoctoral Fellow
 role: pdf
+group: current
 aliases:
   - X. Xu
   - X Xu
