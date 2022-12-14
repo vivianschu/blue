@@ -3,6 +3,7 @@ name: Dave Guo
 image: images/dave-guo.jpg
 description: Research Technician
 role: staff
+group: current
 aliases:
   - D. Guo
   - D Guo
