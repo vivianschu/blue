@@ -9,5 +9,6 @@ aliases:
   - H Guo
 links:
   email:
-current position: Assistant Professor, Shandong University
 ---
+
+Current Position: Assistant Professor, Shandong University
