@@ -3,6 +3,7 @@ name: Jiaying Li
 image: images/jiaying-li.jpg
 description: Postdoctoral Fellow
 role: pdf
+group: current
 aliases:
   - J. Li
   - J Li
