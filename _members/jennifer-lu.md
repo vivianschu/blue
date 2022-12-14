@@ -9,5 +9,6 @@ aliases:
   - J Lu
 links:
   email:
-current position: Undergraduate Student, University of Toronto
 ---
+
+Current Position: Undergraduate Student, University of Toronto
