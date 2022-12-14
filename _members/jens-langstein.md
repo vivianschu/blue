@@ -9,5 +9,6 @@ aliases:
   - J Langstein
 links:
   email:
-current position: Graduate Student, German Cancer Research Centre & National Center for Tumor Diseases, Heidelberg Germany
 ---
+
+Current Position: Graduate Student, German Cancer Research Centre & National Center for Tumor Diseases, Heidelberg Germany
