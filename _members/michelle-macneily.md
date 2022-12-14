@@ -9,5 +9,6 @@ aliases:
   - M MacNeily
 links:
   email: 
-current position: 
 ---
+
+Current Position: 
