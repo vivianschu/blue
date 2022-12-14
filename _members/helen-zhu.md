@@ -3,6 +3,7 @@ name: Helen Zhu
 image: images/helen-zhu.jpg
 description: PhD Candidate
 role: grad
+group: current
 aliases:
   - H. Zhu
   - H Zhu
