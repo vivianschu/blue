@@ -3,6 +3,7 @@ name: Vivian Chu
 image: images/vivian-chu.jpg
 description: PhD Student
 role: grad
+group: current
 aliases:
   - V. Chu
   - V Chu
