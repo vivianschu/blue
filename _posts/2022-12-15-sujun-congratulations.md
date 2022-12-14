@@ -1,6 +1,6 @@
 ---
 title: Sujun commenced on her independent laboratory at Sichuan University, congratulations!
-tags:
+tags: congratulations
 author: 
-member: 
+member: Sujun Chen
 ---
