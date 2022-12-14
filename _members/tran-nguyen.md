@@ -9,5 +9,6 @@ aliases:
   - T Nguyen
 links:
   email:
-current position: MSc Student, McGill University
 ---
+
+Current Position: MSc Student, McGill University
