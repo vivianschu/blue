@@ -3,6 +3,7 @@ name: Yujuan Wang
 image: images/yujuan-wang.jpg
 description: Postdoctoral Fellow
 role: pdf
+group: current
 aliases:
   - Y. Wang
   - Y Wang
