@@ -11,4 +11,4 @@ links:
   email: vivian.chu@mail.utoronto.ca
 ---
 
-Vivian obtained her Honours Bachelor of Science at the University of Waterloo in Molecular Genetics and Bioinformatics. She is currently a PhD student in the Department of Medical Biophysics, co-supervised by Dr. Bo Wang. She is interested in multi-omics integration and artificial intelligence for cancer.
+Vivian obtained her Honours Bachelor of Science at the University of Waterloo in Molecular Genetics and Bioinformatics. She is currently a PhD student in the Department of Medical Biophysics, co-supervised by Dr. Bo Wang. She is interested in applying deep learning algorithms to improve RNA therapeutic development and multi-omic integration to decipher cancer etiology.
