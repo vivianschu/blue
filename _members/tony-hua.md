@@ -9,5 +9,6 @@ aliases:
   - T Hua
 links:
   email:
-current position: Postdoctoral Fellow, UCSF
 ---
+
+Current Position: Postdoctoral Fellow, UCSF
