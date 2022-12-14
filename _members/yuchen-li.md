@@ -9,5 +9,6 @@ aliases:
   - Y Li
 links:
   email:
-current position: Medical Student, University of Toronto
 ---
+
+Current Position: Medical Student, University of Toronto
