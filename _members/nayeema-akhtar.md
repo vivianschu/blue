@@ -3,6 +3,7 @@ name: Nayeema Akhtar
 image: images/nayeema-akhtar.jpg
 description: Research Technician
 role: staff
+group: current
 aliases:
   - N. Akhtar
   - N Akhtar
