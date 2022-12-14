@@ -2,6 +2,7 @@
 title: Home
 ---
 
+{% include section.html full=true %}
 {% include banner.html image="images/banner.jpg" %}
 
 # Your Lab Slogan
@@ -25,8 +26,6 @@ The He laboratory applies a variety of genomic, epigenomic experimental and comp
   style="button"
 %}
 {:.center}
-
-{% include section.html full=true %}
 
 {% include section.html %}
 
