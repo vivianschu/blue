@@ -9,5 +9,6 @@ aliases:
   - C Lu
 links:
   email:
-current position: Medical Student
 ---
+
+Current Position: Medical Student
