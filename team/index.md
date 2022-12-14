@@ -13,31 +13,31 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: pi, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: staff"
+  filters="role: staff, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: pdf"
+  filters="role: pdf, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: grad"
+  filters="role: grad, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="role: undergrad, group: current"
 %}
 {:.center}
 
