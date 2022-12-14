@@ -3,6 +3,7 @@ name: Mona Teng
 image: images/mona-teng.jpg
 description: MSc Student
 role: grad
+group: current
 aliases:
   - M. Teng
   - M Teng
