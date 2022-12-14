@@ -9,5 +9,6 @@ aliases:
   - M Chen
 links:
   email: 
-current position: PhD Engineering, Xiamen University
 ---
+
+Current Position: PhD Engineering, Xiamen University
