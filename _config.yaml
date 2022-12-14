@@ -1,21 +1,19 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+title: He Lab
+description: An RNA Epigenetics Lab based at the University of Toronto.
+logo: images/logo.png
+header: 
+footer: 
 baseurl: /blue
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: hansen.he@uhnresearch.ca
+  google-scholar: XQI8DIEAAAAJ
+  github: HansenHeLab
+  twitter: hansenhe7
 
 ### advanced settings
 
