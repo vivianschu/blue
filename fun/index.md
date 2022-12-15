@@ -5,4 +5,4 @@ nav:
   tooltip: lab fun
 ---
 
-Lorem ipsum dolor sit amet, consectetur a
+<iframe src="https://albumizr.com/a/XwCN" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
