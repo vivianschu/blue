@@ -14,7 +14,7 @@ nav:
 
 ## 2021
 
-<iframe src="https://albumizr.com/a/XwCN" scrolling="no" frameborder="0" allowfullscreen width="800" height="600"></iframe>
+<iframe src="https://albumizr.com/a/quuU" scrolling="no" frameborder="0" allowfullscreen width="800" height="600"></iframe>
 
 {% include section.html %}
 
